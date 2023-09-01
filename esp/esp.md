@@ -1,5 +1,5 @@
 
-# Documentação do Controller: getStatus
+# Documentação do ESP
 
 O controller `getStatus` é responsável por gerenciar solicitações para obter o status de um dispositivo ESP (Internet das Coisas). Ele realiza verificações, atualizações no banco de dados e determina o estado da bomba de água com base em eventos de irrigação e umidade.
 
