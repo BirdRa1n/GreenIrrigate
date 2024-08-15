@@ -24,6 +24,7 @@ https://github.com/BirdRa1n/GreenIrrigate/assets/53487868/2a9f2063-99d7-4ed6-81e
 ## Autores
 
 - [@BirdRa1n](https://www.github.com/BirdRa1n)
+- [@ea.luanna](https://www.github.com/ea.luanna)
 
 ## Referência
 
